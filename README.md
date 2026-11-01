@@ -35,10 +35,14 @@ Serve Claude Code o Codex su un Mac. La skill lavora dal terminale: su claude.ai
 /plugin install spazio-mac@spazio-mac
 ```
 
-**Codex.** Nel terminale:
+**Codex.** Nel terminale, un comando alla volta:
 
 ```bash
 codex plugin marketplace add https://github.com/Ioluca/spazio-mac.git
+```
+
+```bash
+codex plugin add spazio-mac@spazio-mac
 ```
 
 **A mano.** [Scarica lo zip](https://github.com/Ioluca/spazio-mac/raw/main/spazio-mac.zip) e scompattalo in `~/.claude/skills/` oppure in `~/.codex/skills/`. Sono cartelle nascoste: nel Finder le vedi con `Cmd + Shift + .`
