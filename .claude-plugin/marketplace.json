@@ -1,0 +1,17 @@
+{
+  "name": "spazio-mac",
+  "owner": {
+    "name": "Luca Cazzaniga",
+    "url": "https://github.com/Ioluca"
+  },
+  "metadata": {
+    "description": "Perizia dello spazio di un Mac: cosa cancellare, spostare o lasciare, con prove."
+  },
+  "plugins": [
+    {
+      "name": "spazio-mac",
+      "source": "./spazio-mac",
+      "description": "Analizza a fondo lo spazio di un Mac e dice cosa cancellare, spostare o lasciare, con prove e livelli di rischio."
+    }
+  ]
+}

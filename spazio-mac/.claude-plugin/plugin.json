@@ -1,0 +1,10 @@
+{
+  "name": "spazio-mac",
+  "version": "1.0.0",
+  "description": "Analizza a fondo lo spazio di un Mac e dice cosa cancellare, spostare o lasciare, con prove e livelli di rischio.",
+  "author": {
+    "name": "Luca Cazzaniga",
+    "url": "https://github.com/Ioluca"
+  },
+  "license": "MIT"
+}
